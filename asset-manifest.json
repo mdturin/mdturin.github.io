@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "./static/css/main.0820ba23.chunk.css",
-    "main.js": "./static/js/main.246f902b.chunk.js",
-    "main.js.map": "./static/js/main.246f902b.chunk.js.map",
+    "main.js": "./static/js/main.7a17bbae.chunk.js",
+    "main.js.map": "./static/js/main.7a17bbae.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.e2f8ba89.chunk.js": "./static/js/2.e2f8ba89.chunk.js",
-    "static/js/2.e2f8ba89.chunk.js.map": "./static/js/2.e2f8ba89.chunk.js.map",
+    "static/js/2.c654fdc9.chunk.js": "./static/js/2.c654fdc9.chunk.js",
+    "static/js/2.c654fdc9.chunk.js.map": "./static/js/2.c654fdc9.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.dab9aa03fa7d9e7208bd8d5dff17ff73.js": "./precache-manifest.dab9aa03fa7d9e7208bd8d5dff17ff73.js",
+    "precache-manifest.1a56e815714b7c0b8547f8872053bd36.js": "./precache-manifest.1a56e815714b7c0b8547f8872053bd36.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.0820ba23.chunk.css.map": "./static/css/main.0820ba23.chunk.css.map",
     "static/media/index.css": "./static/media/Quoth.69c1286f.otf",
     "static/media/MySQL.eps": "./static/media/MySQL.257cbc3e.eps",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
+    "static/media/agoda.png": "./static/media/agoda.f7ca4f2b.png",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
@@ -39,6 +40,8 @@
     "static/media/iiitk_logo.png": "./static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "./static/media/intel_logo.29152cf7.jpg",
     "static/media/iu_logo.png": "./static/media/iu_logo.60ed0bd3.png",
+    "static/media/java.png": "./static/media/java.00b71d49.png",
+    "static/media/java2.png": "./static/media/java2.77c17e56.png",
     "static/media/javascript.svg": "./static/media/javascript.2d2e31cc.svg",
     "static/media/jsFramework.svg": "./static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
@@ -50,6 +53,9 @@
     "static/media/programmer.svg": "./static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "./static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "./static/media/pwa.71408db7.png",
+    "static/media/python.png": "./static/media/python.a91d3c8c.png",
+    "static/media/rest.png": "./static/media/rest.8cce0d7a.png",
+    "static/media/solving.webp": "./static/media/solving.6d613793.webp",
     "static/media/stanford_logo.png": "./static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
@@ -58,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.e2f8ba89.chunk.js",
+    "static/js/2.c654fdc9.chunk.js",
     "static/css/main.0820ba23.chunk.css",
-    "static/js/main.246f902b.chunk.js"
+    "static/js/main.7a17bbae.chunk.js"
   ]
 }
